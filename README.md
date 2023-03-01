@@ -1,16 +1,6 @@
 # grocery_app
 
-A new Flutter project.
+A new Flutter project working on animations
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/90405133/222150446-d9829f2d-3064-47e0-ac11-60f4c7cf705e.png" width="250" height="527" style="padding: 10px,40px,10px,10px" > | <img src="https://user-images.githubusercontent.com/90405133/222150471-18d8765a-1bb0-43f4-b69d-a71eb9bab587.png" width="250" height="527" style="padding: 10px,40px,10px,10px"> | <img src="https://user-images.githubusercontent.com/90405133/222150947-8ea585f4-99a4-4039-b02b-0393d4924f1d.png" width="250" height="527" style="padding: 10px,40px,10px,10px">
+ 
